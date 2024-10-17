@@ -24,6 +24,3 @@ Power Query: For data preparation and transformation.
 Formulas & Pivot Tables: For data aggregation and analysis.
 How to Use: The dashboard is designed for business analysts and decision-makers to monitor sales performance, identify trends, and optimize strategies.
 
-Screenshots:
-
-(Include screenshot of the dashboard here)
